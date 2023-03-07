@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "compromise": "^14.8.2"
+    "compromise": "^14.8.2",
+    "compromise-dates": "^3.4.1",
+    "sentiment": "^5.0.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.21"
