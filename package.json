@@ -13,6 +13,8 @@
   "dependencies": {
     "compromise": "^14.8.2",
     "compromise-dates": "^3.4.1",
+    "compromise-stats": "^0.1.0",
+    "natural": "^6.2.0",
     "sentiment": "^5.0.2"
   },
   "devDependencies": {
